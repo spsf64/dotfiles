@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=UsbLinux
+Comment=Download pre-compiled AUR files
+Icon=user-bookmarks
+URL=https://sourceforge.net/projects/arch-mod/files/aur-pkgs/
+Name[en_US.UTF-8]=UsbLinux
+Name[en_US.utf8]=UsbLinux
+GenericName=UsbLinux site

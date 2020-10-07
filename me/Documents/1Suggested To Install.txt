@@ -1,0 +1,49 @@
+
+Find some pre-compiled AUR packages at: 
+https://sourceforge.net/projects/arch-mod/files/aur-pkgs/
+
+
+Default REPOS:
+ardour
+blender
+dbeaver
+discord (or use rambox/station)
+double-commander
+geogebra
+gnome-builder + gnome-code-assistance
+hugin
+kodi
+musescore
+pycharm-community-edition
+qalculate-gtk
+qtcreator
+quiterss
+sigil
+spyder3
+telegram (or use rambox/station)
+vhba-module (Kernel module that emulates SCSI devices)
+
+
+AUR:
+dropbox (or use rambox/station)
+gitkraken
+guiscrcpy (android emulator with GUI)
+insync (or use rambox/station)
+mega -megasync (or use rambox/station)
+rambox (integrated web apps)
+scrcpy (android emulator)
+station (integrated web apps)
+vscodium (visual-studio-code)
+
+Cad:
+freecad
+librecad
+qcad
+
+Office:
+freeoffice
+libreoffice
+onlyoffice
+wps-office
+ttf-wps-fonts
+

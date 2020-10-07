@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Station
+Exec=station
+Terminal=false
+Type=Application
+Icon=browserx
+StartupWMClass=Station
+X-AppImage-Version=1.50.1.4242
+Comment=Station
+MimeType=x-scheme-handler/station;
+Categories=Network;

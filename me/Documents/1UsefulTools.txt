@@ -1,0 +1,32 @@
+Some useful command line tools!
+
+bc (calculator)
+dropbear (ssh server)
+cylon
+ddgr (duckduckgo terminal)
+diskus (du -sh)
+exa (ls replacement)
+feh
+figlet
+glances
+googler
+htop
+hwinfo
+inxi
+lftp
+minidlna
+nmon
+openssh
+pastebinit
+pigz
+reflector
+rkhunter
+scrcpy (android emulator)
+sox (play)
+testdisk (disk recovery/forensyc)
+units
+vimb (browser)
+xdelta3
+zsync
+zbarcam-gtk
+zbarimg
